@@ -1,1 +1,1 @@
-# Chrome dinosour game
+# Chrome dinosour game auto runner!
