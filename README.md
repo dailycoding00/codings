@@ -1,1 +1,1 @@
-# codings
+# Chrome dinosour game
